@@ -24,7 +24,7 @@ export default function Home() {
         <p className="lead">Zion Systems Corporation designs and builds digital systems that help people, organizations, and artificial intelligence work together.</p>
         <div className="button-row">
           <Link className="button dark" href="/appointment/3">BOOK A STRATEGY CONSULTATION — $500</Link>
-          <Link className="text-link" href="/how-we-work">HOW IT WORKS ↗</Link>
+          <Link className="text-link" href="/solutions">EXPLORE SOLUTIONS ↗</Link>
         </div>
       </div>
     </section>
